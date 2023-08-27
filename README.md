@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dumsquare
 - 👀 I’m interested in VR and Game Development
-- 🌱 I’m currently finishing BS in Computer Science and certifications in an Applications Architect program
+- 🌱 I’m currently finishing B.S.c. in Computer Science
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me: email: dbara017@fiu.edu
 
