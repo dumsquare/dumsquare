@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dumsquare
-- 👀 I’m interested in VR and Game Development
-- 🌱 I’m currently finishing B.S.c. in Computer Science
-- 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me: email: dbara017@fiu.edu
+- 👋 Hi, I’m @dumsquare in GitHub 
+- 👀 I’m interested in Cryptography and the influencing of Global Politics online
+- 🌱 I’m perpertually finishing B.S.c. in Computer Science (FIU) before M.S.c. Game Design (Full Sail University)
+- 💞️ I’m at the end of the Cyberchase in the Cybersphere in the Cyber-age 
+- 📫 How to reach me: emailhttps://hoo.be/ashikabi/
 
 <!---
 dumsquare/dumsquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
